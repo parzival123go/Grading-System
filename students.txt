@@ -1,0 +1,5 @@
+81612345 	John	Smith 	M 	jsmith@hotmail.com 	789-9089 	12/2/2016
+81612346	Jane	Jones	F	jjones@icloud.com	324-1678	9/5/2017
+81512347	Mary	Paul	F	mpaul@yahoo.com		215-4578	23/8/2015
+81512348	Paul	Kansas	M	paul_kansas@gmail.com	515-0570	17/9/2015
+0

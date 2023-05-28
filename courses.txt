@@ -1,0 +1,23 @@
+COMP1600 Introduction_to_Computing_Concepts 3
+COMP1601 Computer_Programming_I 3
+INFO1600 Introduction_to_Information_Technology_Concepts 3
+ACCT1002 Introduction_to_Financial_Accounting 3
+ECON1001 Introduction_to_Economics_I	3
+MATH1115 Fundamental_Mathematics_for_the_General_Sciences_I 3
+COMP1602 Computer_Programming_II 3
+COMP1603 Computer_Programming_III 3
+COMP1604 Mathematics_for_Computing 3
+INFO1601 Introduction_to_WWW_Programming 3
+ACCT1003 Introduction_to_Cost_and_Managerial_Accounting 3
+ECON1002 Introduction_to_Economics_II 3
+CHEM1067 Introduction_to_Chemistry_II 3
+CHEM1068 Introduction_to_Chemistry_III 3
+CHEM1070 Introductory_Chemistry_Laboratory_(Yearlong) 3
+CHEM1066 Introduction_to_Chemistry_I 3
+ECON1005 Introduction_to_Statistics 3
+FOUN1101 Caribbean_Civilization 3
+FOUN1301 Law,_Governance,_Economy_and_Society 3
+FOUN1105 Scientific_and_Technical_Writing 3
+BIOL1262 Living_Organisms_I 3
+BIOL1263 Living_Organisms_II 3
+END
